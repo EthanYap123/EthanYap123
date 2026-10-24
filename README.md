@@ -4,7 +4,7 @@ Year 2 Information Technology student at **Singapore Polytechnic** (Minor in Bus
 
 I build full-stack web apps with Node.js, Next.js and Python on PostgreSQL and MySQL, from REST APIs and real-time dashboards to AI search with embeddings, shipped with Docker and GitHub Actions. My rule: a working build ready seven days before every deadline, leaving a full week for testing.
 
-🌐 **Portfolio:** [ethanyap123.github.io/portfolio](https://ethanyap123.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/yap-kai-jun-ethan/) · ✉️ yap.k.j.ethan@gmail.com
+🌐 **Portfolio:** [ethanyap123.github.io/portfolio](https://ethanyap123.github.io/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/yap-kai-jun-ethan/) · ✉️ ethanyapschool@gmail.com
 
 ## Featured projects
 
