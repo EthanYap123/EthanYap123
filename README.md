@@ -14,7 +14,7 @@ I build full-stack web apps with Node.js, Next.js and Python on PostgreSQL and M
 | **AI Code Snippet Hub** | Paste code; a background worker writes docs, tags and embeddings so you can find it by describing it | Next.js, TypeScript, PostgreSQL + pgvector, Gemini | [Demo](https://ethanyap123.github.io/ai-code-snippet-hub/) · [Code](https://github.com/EthanYap123/ai-code-snippet-hub) |
 | **Academic RAG Search** | Ask questions about policy handbooks; answers cite the exact page and section | Python, FastAPI, ChromaDB, pytest | [Demo](https://ethanyap123.github.io/academic-rag-search/) · [Code](https://github.com/EthanYap123/academic-rag-search) |
 | **Tech Trend Sentiment Tracker** | ETL pipeline scoring tech and market news every six hours, with a trends dashboard | Python, pandas, SQLite, FastAPI, Next.js | [Demo](https://ethanyap123.github.io/trend-sentiment-tracker/) · [Code](https://github.com/EthanYap123/trend-sentiment-tracker) |
-| **Pokémon Gym & Battle System** | Turn-based battle game and gacha shop on a secured REST API | Node.js, Express, MySQL, JWT | [Demo](https://ethanyap123.github.io/pokemon-gamified-battle-system/) · [Code](https://github.com/EthanYap123/pokemon-gamified-battle-system) |
+| **Pokémon Gym & Battle System** | Turn-based battle game and gacha shop on a secured REST API | Node.js, Express, PostgreSQL (Neon), JWT | [Demo](https://ethanyap123.github.io/pokemon-gamified-battle-system/) · [Code](https://github.com/EthanYap123/pokemon-gamified-battle-system) |
 
 ## Toolkit
 
