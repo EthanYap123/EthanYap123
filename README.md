@@ -23,4 +23,4 @@ I build full-stack web apps with Node.js, Next.js and Python on PostgreSQL and M
 **Data & AI:** PostgreSQL, pgvector, MySQL, SQLite, pandas, ETL pipelines, ChromaDB, embeddings, RAG, Gemini API<br>
 **Frontend:** React, Next.js, Tailwind CSS, Bootstrap 5, Web Components, Chart.js, Recharts, Java Swing<br>
 **DevOps:** Docker & Compose, nginx, GitHub Actions, GitHub Pages<br>
-**Testing & tools:** pytest, Jest, Supertest, node:test, Zod, Figma, Power BI
+**Testing & tools:** pytest, node:test, Zod, Figma, Power BI
